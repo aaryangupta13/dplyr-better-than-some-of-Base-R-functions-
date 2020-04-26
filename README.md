@@ -1,5 +1,5 @@
 # dplyr-better-than-some-of-Base-R-functions-
-I have shown and compared here some functions of dplyr package which is an external package with some of the base R functions, to show its rapid execution, better readability and easy formatting than the Base R functions itself.
+I have shown and compared here some functions of dplyr package which is an external package with some of the base R functions, to show its better readability and easy formatting than the Base R functions itself.
 
 
 Some functions which I have included from the package dplyr are as follows:
@@ -24,4 +24,4 @@ I have also covered few convenient functions of dplyr which might come handy as 
 3) glimpse()     - dplyr approach to view the structure of the table, with better formatting and also it adapts to our screen.
 
 Also covered few examples and extractions with few other functions of dplyr, and also provided a better format to present your code
-which is more readable and not to mention, much faster to code and for execution.
+which is more readable and have a clear understanding at a glance.
